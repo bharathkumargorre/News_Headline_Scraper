@@ -23,3 +23,5 @@ python -m pip install requests beautifulsoup4
 python news_scraper.py
 
 3. Headlines are saved in headlines.txt
+## Author:
+G.Bharath Kumar
